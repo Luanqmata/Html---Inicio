@@ -5,7 +5,7 @@ REV
         <head> =  cabeça a parte de comandos.
         <body> = corpo pag 
         <meta charset="utf-8"> = tipo de caracters do teclado.
-        <link rel = "stylesheet"> = faz a linkagem de uma pasta css , design
+        <link rel = "stylesheet" href ="nome_da_pasta_css"> = faz a linkagem de uma pasta css , design
         <header> = cabeçalho ,parte superior
         <main> = divisão principal 
         <div> = divisao genericá
