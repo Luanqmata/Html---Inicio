@@ -12,7 +12,7 @@ REV
         <img src = "nome_da_imagem.jpg"> = faz a linkagem da imagem pra dentro do html
         <span> = para estilo especifico 
         <section> = sessão tematica ou agrupamento
-        <fomr> = abrir um formulario para ser preenchido 
+        <form> = abrir um formulario para ser preenchido 
         <label> = Rótulo no form
         <input> = abre uma caixa de dialogo
         <nav> = menu de navegação
